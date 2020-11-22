@@ -8,6 +8,13 @@ class App extends Component {
             <div id="main">
                {/* Do not remove the main div */}
             </div>
+            <>
+      <ol key="relativeList">
+        <li key="relativeListItem1">Aryan</li>
+        <li key="relativeListItem2">Anjali</li>
+        <li key="relativeListItem3">Geetanjali</li>
+      </ol>
+   </>
         )
     }
 }
