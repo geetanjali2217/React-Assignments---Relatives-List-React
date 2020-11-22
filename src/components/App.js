@@ -5,9 +5,6 @@ class App extends Component {
     render() {
 
         return(
-            <div id="main">
-               {/* Do not remove the main div */}
-            </div>
             <>
       <ol key="relativeList">
         <li key="relativeListItem1">Aryan</li>
